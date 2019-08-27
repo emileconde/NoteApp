@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Note</string>
+    <string name = "toolbar_title">Notes</string>
+    <string name = "note_deleted">Note Deleted</string>
+</resources>
